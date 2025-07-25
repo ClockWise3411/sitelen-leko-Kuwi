@@ -11,6 +11,6 @@ To compare radicals to aide in the learning process please see radical dictionar
 
 To learn how to use the font file please see font instructions
 
-To download the font and start using please see the oft font file
+To download the font and start using please see the otf font file
 
 If you have any questions about the script or it's simply not working somehow, feel free to message me on Reddit @u/CloqueWise or email me at clockwisesb@gmail.com
