@@ -13,4 +13,6 @@ To learn how to use the font file please see font instructions
 
 To download the font and start using please see the otf font file
 
+To practice reasing the script please see the story titled "jan sona en soweli ona"
+
 If you have any questions about the script or it's simply not working somehow, feel free to message me on Reddit @u/CloqueWise or email me at clockwisesb@gmail.com
