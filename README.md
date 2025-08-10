@@ -1,6 +1,12 @@
 # o kama pona tawa sitelen leko!
 # Welcome to sitelen leko!
 
+# UPDATE!
+## I will stop updating all files on this github other than the font file. Instead please use this link to continue learning sitelen leko 
+### https://clockwise3411.github.io/lipu-sona-pi-sitelen-Kuwi/
+
+
+
 To read about sitelen leko and/or learn how to use it please see the guide.
 
 To learn the individual glyphs please see the dictionary.
