@@ -2,7 +2,7 @@
 # Welcome to sitelen leko!
 
 # UPDATE!
-## I will stop updating all files on this github other than the font file. Instead please use this link to continue learning sitelen leko 
+## I will stop updating all files on this github other than the font file. Instead please use this link to continue learning sitelen leko (pleae note that the website doesnt format propperly on Safari)
 ### https://clockwise3411.github.io/lipu-sona-pi-sitelen-Kuwi/
 
 
